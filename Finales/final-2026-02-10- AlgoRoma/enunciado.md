@@ -8,7 +8,7 @@ En la antigua Roma existian guerreros cuya función no era la de ir a la guerra,
 
 ## Características técnicas:
 
-Para determinar el ganador de cada pelea se creó un coheficiente de capacidad de pelea del gladiador (_puntaje de gladiador_ o `Pg`). Cada gladiador puede elegir hasta dos armas y una armadura para batallar en la arena. Una vez ganadas 3 batallas, un gladiador novato asciende a
+Para determinar el ganador de cada pelea se creó un coheficiente de capacidad de pelea del gladiador (_puntaje de gladiador_ o `Pg`). Cada gladiador puede elegir hasta dos armas y una armadura para batallar en la arena. Una vez ganadas 3 batallas, un gladiador novato asciende a senior. A las 10 batallas ganadas un gladiador senior asciende a leyenda.
 
 Cada arma tiene un daño y cada armadura una proteccion base que se aplican en el calculo del puntaje de cada gladiador. Adicionalmente, la veteranía de un gladiador aplica un efecto adicional a cada arma y armadura equipada por este según corresponda.
 
